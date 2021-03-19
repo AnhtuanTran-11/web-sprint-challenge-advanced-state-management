@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Smurf = (props)=> {
+    
     const { smurf } = props;
     
     return(<div data-testid="smurf" className="card">
